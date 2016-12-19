@@ -1,0 +1,10 @@
+{
+  "name": "image-glitch",
+  "version": "1.0.0",
+  "description": "Glitch images effect",
+  "main": "./js/AutoGlitch.js",
+  "entry": "./js/AutoGlitch.js",
+  "repository": "git@github.com:btholt/image-glitch.git",
+  "author": "Dane Hansen <dane@danehansen.com>",
+  "license": "MIT"
+}
